@@ -1,0 +1,9 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  user-select: none;
+}
+.MuiFormHelperText-root.Mui-error {
+  padding-bottom: 10px !important;
+}
